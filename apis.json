@@ -1,0 +1,58 @@
+{
+    "name": "WrapAPI",
+    "description": "Build an API on top of any existing website or find an API for a site that you need",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19089-wrapapi.jpg",
+    "tags": [
+        "deployment",
+        "have api",
+        "scraping",
+        "scraping tools"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/wrapapi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "WrapAPI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19089-wrapapi.jpg",
+            "humanURL": "https:\/\/wrapapi.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/wrapapi-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Documentation",
+            "url": "https:\/\/wrapapi.com\/docs\/GettingStarted"
+        },
+        {
+            "type": "Email",
+            "url": "peter@wrapapi.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@wrapapi.com"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@wrapapi.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/wrapapi.com\/pricing"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/wrapapi.com"
+        }
+    ]
+}
